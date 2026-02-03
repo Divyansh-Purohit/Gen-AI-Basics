@@ -1,0 +1,11 @@
+Ladies and gentlemen, friends, and fellow builders,
+
+We live in an era where change no longer knocks on the door. It breaks it down. Every year, technology moves faster, systems grow more complex, and decisions that once took decades now take months, sometimes weeks. And in the middle of all this acceleration, there is one uncomfortable truth we must face: progress without direction is not innovation—it is chaos.
+
+For generations, we measured success by what we could build. Bigger machines. Faster networks. Smarter systems. But today, the real challenge is not whether we can build something. It is whether we should, and if we do, whether we understand the consequences of what we are putting into the world.
+
+Technology is not neutral. Every line of code carries assumptions. Every model reflects priorities. Every system amplifies certain voices while muting others. When we say we are “just engineers” or “just researchers,” we ignore the fact that our work shapes how people live, learn, communicate, and even think.
+
+Look around us. Algorithms decide what news we see. Automated systems influence who gets a loan, who gets a job interview, and who is flagged as a risk. These systems are efficient, scalable, and impressive. But efficiency without accountability can quietly erode trust. And trust, once lost, is far harder to rebuild than any system we deploy.
+
+The future we are building will not be defined by our tools alone. It will be defined by the values we embed into them. If we optimize only for speed, we will get speed. If we optimize only for profit, we will get profit. But if we fail to optimize for fairness, transparency, and human dignity, we should not be surprised when the systems we create feel cold, distant, and unfair.
